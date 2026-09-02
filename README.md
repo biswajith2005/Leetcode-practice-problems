@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0005-longest-palindromic-substring) |
+| [0076-minimum-window-substring](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -37,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Array
 |  |
