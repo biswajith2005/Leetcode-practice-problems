@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -50,9 +51,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
