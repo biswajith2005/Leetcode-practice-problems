@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
