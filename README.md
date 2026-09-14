@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0704-binary-search) |
