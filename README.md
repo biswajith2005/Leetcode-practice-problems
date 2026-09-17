@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0680-valid-palindrome-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0875-koko-eating-bananas) |
@@ -101,8 +104,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0074-search-a-2d-matrix) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/biswajith2005/Leetcode-practice-problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
